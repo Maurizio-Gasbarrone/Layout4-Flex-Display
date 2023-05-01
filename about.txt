@@ -1,6 +1,6 @@
 /********************************************************************************/
 /*                                                                              */
-/* THIS IS LAYOUT #4 FOR MORE PRACTISE ON HTML AND CSS CODING AS MUCH AS I CAN */
+/* THIS IS LAYOUT #4 FOR MORE PRACTISE ON HTML AND CSS CODING AS MUCH AS I CAN  */
 /*                                                                              */
 /********************************************************************************/
  
